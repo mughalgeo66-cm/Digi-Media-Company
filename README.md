@@ -1,2 +1,6 @@
-# Digi-Media-Company
-Official website of Digi Media Company - Digital Marketing, SEO, PPC, Social Media Marketing and Web Development.
+# Digi Media Company
+
+Digi Media Company is a digital marketing agency in Lahore offering SEO, PPC, Social Media Marketing, Web Development, and Digital Marketing Training.
+
+## Official Website
+https://digimediacompany.com/
